@@ -1,0 +1,118 @@
+canonical_identifier: bkk:krp/KR6t0092/T/v1
+canonical_location: https://kanripo.org/bkk/KR6t0092/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR6t0092_001-T.yaml, hash: 'sha256:34ff6dc3caad8c1b2723f68101da5fbac6c8c319538b3f2a142267ed2688dd53'}
+  - {seq: 2, filename: KR6t0092_002-T.yaml, hash: 'sha256:02dd130a7b8880478a1899b2acf557b4439ff1be5b87dba648fab955d276c638'}
+  - {seq: 3, filename: KR6t0092_003-T.yaml, hash: 'sha256:5af816a4e4d9bd40381253600956f72f03fad2a20050f7b19fcc885f7c37e74f'}
+  - {seq: 4, filename: KR6t0092_004-T.yaml, hash: 'sha256:0e43cc85639e4f6ab198832a8e175fe1035cd3bd292f78cbe4188643f5bcd081'}
+  - {seq: 5, filename: KR6t0092_005-T.yaml, hash: 'sha256:6423b615047790eee3c4ab2bf997bbb993cc047dba488fced9e7d4ea6f2e127b'}
+  - {seq: 6, filename: KR6t0092_006-T.yaml, hash: 'sha256:04b9e27b781a26dc7397bf68a887970186129da11c52179a48ecd96e0980367a'}
+  - {seq: 7, filename: KR6t0092_007-T.yaml, hash: 'sha256:6bf70b00623e31f34b2a94597f98f8c1db8e882a76bdcdc1becaaaf2a8665a89'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6t0092_001-T.markers.yaml, hash: 'sha256:98ddc94ee3f95d02e22104d97432745685a71c5a4b9ca6cecdd601dd6c067ab0'}
+  - {seq: 2, role: markers, filename: assets/KR6t0092_002-T.markers.yaml, hash: 'sha256:4a2df2d232ca30edf6d528cb02e1e518a0d736b9c0ed3294c05d3d2587c7caa6'}
+  - {seq: 3, role: markers, filename: assets/KR6t0092_003-T.markers.yaml, hash: 'sha256:b0932d077e67ae6f7c85e11aa19fb9aa5d05a5812fce1214f29fe025edd4a0f7'}
+  - {seq: 4, role: markers, filename: assets/KR6t0092_004-T.markers.yaml, hash: 'sha256:0a75bbabcb48d97af85604642d9738b17d6a45a917881fb2a130e0452c5fd5b3'}
+  - {seq: 5, role: markers, filename: assets/KR6t0092_005-T.markers.yaml, hash: 'sha256:9915c531d16a9e06552e7dd1ba22e454ac2a480345e6ef55c9511311f9510567'}
+  - {seq: 6, role: markers, filename: assets/KR6t0092_006-T.markers.yaml, hash: 'sha256:05b170451260db5344a4343d3fbb6bff36632c70c2b97a189122af251a875fd6'}
+  - {seq: 7, role: markers, filename: assets/KR6t0092_007-T.markers.yaml, hash: 'sha256:1bf79182ff40dfaa54d24039b173a0a23c8ca6fb95700cec17d0784b2189e543'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 3991
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 14117
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 7578
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 8285
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 6031
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 6488
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 16240
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6t0092_T_007-0336c02.h.7
+    span:
+    - body
+    - 0
+    - 16240
+  label: 大日經供養持誦不同第七
+  type: section
+  level: 2
+metadata:
+  title: 大日經供養持誦不同
+  identifiers:
+    krp: KR6t0092
+    canon: T
+    vol: '75'
+    'no': '2394'
+  tags:
+    kr-categories: KR6t
+  source:
+    repository: tls-texts
+    path: data/tls/KR6t0092.xml
+  edition:
+    short: T
+hash: sha256:43bf7dd8a7354e07d6725d0200b4bd7f08d62af776914e91b8c93f7452e39e1c
